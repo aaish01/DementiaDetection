@@ -1,2 +1,2 @@
-# DementiaDetection
-This repository contains the code and documentation for my Computer Aided Diagnosis of Dementia project. 
+# Dementia Detection
+This repository contains the code and documentation for my Computer-Aided Diagnosis of Dementia project. The aim of this project is to develop a classification system that can accurately detect different stages of Dementia from a given set of Magnetic Resonance Imaging(MRI) scans. Here, I have explored various Machine Learning Models and evaluated their performance using different evaluation metrics.
